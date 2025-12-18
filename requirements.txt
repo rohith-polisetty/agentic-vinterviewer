@@ -1,0 +1,15 @@
+streamlit
+google-generativeai
+langgraph
+langchain
+langchain-google-genai
+mcp
+pydantic
+python-dotenv
+streamlit-ace
+pandas
+numpy
+pypdf
+fastapi
+uvicorn
+requests
